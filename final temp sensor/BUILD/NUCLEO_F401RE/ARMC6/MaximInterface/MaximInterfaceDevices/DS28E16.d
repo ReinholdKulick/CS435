@@ -1,0 +1,31 @@
+BUILD\NUCLEO_F401RE\ARMC6\MaximInterface\MaximInterfaceDevices\DS28E16.o: \
+  MaximInterface\MaximInterfaceDevices\DS28E16.cpp \
+  BUILD\NUCLEO_F401RE\ARMC6\mbed_config.h \
+  MaximInterface\MaximInterfaceCore\Error.hpp \
+  MaximInterface\MaximInterfaceCore\Config.hpp \
+  MaximInterface\MaximInterfaceDevices\DS28E16.hpp \
+  MaximInterface\MaximInterfaceCore\Algorithm.hpp \
+  MaximInterface\MaximInterfaceCore\span.hpp \
+  MaximInterface\MaximInterfaceCore\array.hpp \
+  MaximInterface\MaximInterfaceCore\type_traits.hpp \
+  MaximInterface\MaximInterfaceCore\array_span.hpp \
+  MaximInterface\MaximInterfaceCore\Unconstructible.hpp \
+  MaximInterface\MaximInterfaceCore\FlagSet.hpp \
+  MaximInterface\MaximInterfaceCore\RomId.hpp \
+  MaximInterface\MaximInterfaceCore\array_span.hpp \
+  MaximInterface\MaximInterfaceCore\Crc.hpp \
+  MaximInterface\MaximInterfaceCore\RunCommand.hpp \
+  MaximInterface\MaximInterfaceCore\Function.hpp \
+  MaximInterface\MaximInterfaceCore\None.hpp \
+  MaximInterface\MaximInterfaceCore\SafeBool.hpp \
+  MaximInterface\MaximInterfaceCore\SelectRom.hpp \
+  MaximInterface\MaximInterfaceCore\RomCommands.hpp \
+  MaximInterface\MaximInterfaceCore\Algorithm.hpp \
+  MaximInterface\MaximInterfaceCore\OneWireMaster.hpp \
+  MaximInterface\MaximInterfaceCore\Result.hpp \
+  MaximInterface\MaximInterfaceCore\Optional.hpp \
+  MaximInterface\MaximInterfaceCore\system_error.hpp \
+  MaximInterface\MaximInterfaceCore\Uncopyable.hpp \
+  MaximInterface\MaximInterfaceCore\RomId.hpp \
+  MaximInterface\MaximInterfaceCore\system_error.hpp \
+  MaximInterface\MaximInterfaceDevices\Config.hpp
